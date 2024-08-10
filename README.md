@@ -1,6 +1,6 @@
-# Quiz App
+# To Do List App
 
-Welcome to the Quiz App repository! This app was created as part of my journey with Bharat Intern. It's designed to provide an engaging and interactive way to learn and test your knowledge on various topics.
+Welcome to the To Do List App repository! This app was created as part of my journey with Bharat Intern. It's designed to provide an engaging and interactive way to learn and test your knowledge on various topics.
 
 ## Features
 
@@ -11,10 +11,10 @@ Welcome to the Quiz App repository! This app was created as part of my journey w
 
 ## Getting Started
 
-To get started with the Quiz App, follow these steps:
+To get started with the To Do List App, follow these steps:
 
-1. Download the app from the [GitHub, Install](https://github.com/rajkishorbgp/Android-Apps/blob/main/QuizApp/Quiz-App.apk).
-2. Select a quiz that interests you.
+1. Download the app from the [GitHub, Install](https://github.com/https://bhagavan89/todolist-app/).
+2. Select a To Do List that interests you.
 3. Answer the questions and watch your knowledge grow.
 4. Enjoy instant feedback and explanations.
 
@@ -24,22 +24,22 @@ I would like to express my sincere gratitude to Bharat Intern for providing me w
 
 ## Contributing
 
-Contributions to the Quiz App are welcome! If you find any issues or have suggestions for improvement, feel free to submit a pull request.
+Contributions to the To Do List App are welcome! If you find any issues or have suggestions for improvement, feel free to submit a pull request.
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, feel free to reach out to me at: rajkishorbgp6@gmail.com.
+If you have any questions, feedback, or suggestions, feel free to reach out to me at: bhagavan.saladi352@gmail.com.
 
-Let's embark on a journey of continuous learning and exploration with the Quiz App! 🚀📱
+Let's embark on a journey of continuous learning and exploration with the To Do List App! 🚀📱
 
 ## License
 
-The Quiz App is released under the [MIT License](LICENSE).
+The To Do List App is released under the [MIT License](LICENSE).
 
 ```
 MIT License
 
-Copyright (c) 2023 rajkishorbgp
+Copyright (c) 2024 bhagavan saladi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
