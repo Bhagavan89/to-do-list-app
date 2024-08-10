@@ -13,7 +13,7 @@ Welcome to the To Do List App repository! This app was created as part of my jou
 
 To get started with the To Do List App, follow these steps:
 
-1. Download the app from the [GitHub, Install](https://github.com/https://bhagavan89/todolist-app/).
+1. Download the app from the [GitHub, Install](https://github.com/Bhagavan89/todolist/blob/main/app-debug.apk).
 2. Select a To Do List that interests you.
 3. Answer the questions and watch your knowledge grow.
 4. Enjoy instant feedback and explanations.
